@@ -1,4 +1,4 @@
-// milanov Navbar.js
+// Milanov Navbar.js
 import React, { Component } from "react"
 import { Link } from "gatsby"
 import logo from "../../images/logo.svg"
